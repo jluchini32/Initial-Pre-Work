@@ -12,7 +12,7 @@ put your answer here
 
 ## What code is rendered in the browser?
 
-put your answer here
+Javascript is rendered in the browser. 
 
 ## What is the server-side code’s main function?
 
