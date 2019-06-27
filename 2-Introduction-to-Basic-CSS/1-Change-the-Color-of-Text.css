@@ -1,15 +1,14 @@
 /* Please remember to include a summary statement with EACH FILE regarding what you learned from the lesson in this format!  I recommend keeping it at the top of each file for faster processing of your application.*/
-The thing I took away most from this section, was the variable naming convention used in CSS. I hadnt really used 
+/*The thing I took away most from this section, was the variable naming convention used in CSS. I hadnt really used 
 the :root selector before this course. I had a solid understanding of most coloring, sizing, and naming rules within CSS before this,
 but I could definitly improve upon keeping my css clean, going back to check if Im already styling an element,
 before I try to create a new class or id to overwrite it. I think that that section did a good job of explaining how to 
 prioritize items styling, but in the future I will try to avoid doing that as to not create confusion. I really enjoy using
 CSS, so this was a nice refresher on some of the things I wasnt utilizing before. I would say that my CSS skills are a bit
 more advanced than what this section covers, but I will try to mix in more of these techniques, so that my work 
-never gets stale.
+never gets stale.*/
 
 
-/* Copy your code from the central panel of the freeCodeCamp page and paste it below after successfully passing the test.  You will have to click on the X at the top right of the modal that pops up to see the code. If you forget, just rerun the test.  You are also welcome to download your solution. */
 <h2 style= "color: red; ">CatPhotoApp</h2>
 <main>
   <p>Click here to view more <a href="#">cat photos</a>.</p>

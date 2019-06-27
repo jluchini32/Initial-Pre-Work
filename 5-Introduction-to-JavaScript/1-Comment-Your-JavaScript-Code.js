@@ -6,7 +6,7 @@
 //Learning and applying vanilla Javascript in your work, (in my opinion) says a lot about your understanding
 // of coding in general. Learning other languages, the syntax and structure may change, but the logic and thoughts
 // behind it is all the same. My biggest takeaway from this entire section, is that javascript is one of the most 
-//important skills to hone to be a successful programmer. 
+//important skills to hone to be a successful programmer!
 
 //Covering fundamental concepts such as accessing data inside arrays, and objects was one of the most
 // important lessons in my opinion, there are so many times in programming, that you know WHAT you have 

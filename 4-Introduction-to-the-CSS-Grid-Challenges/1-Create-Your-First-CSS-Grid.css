@@ -3,7 +3,7 @@ Connect4 Gamme with CSS Grid to get a 6x7 block table with a border-radius of 50
 I soon realized I might have been over my head a bit when it came to manipulating the contents of the cell while using CSS, 
 I eventually ended up going in a different direction by just creating the cells in HTML & JS.
 However, I really like the simplicity of building layouts with CSS Grid and making it super responsive when 
-it comes to making DRY(dont repeat yourself code), for example when you use the repeat function.
+it comes to making DRY(dont repeat yourself code)! For example when you use the repeat function.
 I plan to spend more time building projects using Grid. I can see the most benefit in using
 Grid in making a simple blog or landing page website, which has a simple header, content section and footer
 especially when it comes to aligning the content within the cells.   */

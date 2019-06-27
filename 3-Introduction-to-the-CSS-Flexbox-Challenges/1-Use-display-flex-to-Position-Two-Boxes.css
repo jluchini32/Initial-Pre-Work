@@ -1,10 +1,10 @@
-The biggest takeaway from this section for me is how I can better create more responsive applications.
+/*The biggest takeaway from this section for me is how I can better create more responsive applications.
 CSS Flexbox is a really awesome tool for making applications adapt to the environments that they
 are being displayed on. I have to be honest, I have not really touched flexbox more than one time since
 starting to code. It was a pleasant experience using flexbox to tweak something as simple as the tweet
 and make it look like the real deal using align-items and display flex. CSS flexbox will help me in the 
 future to make tweaks to positioning in the future without using pixels to try to determine how something
-fits flush into a page. 
+fits flush into a page. */
 
 <style>
   #box-container {

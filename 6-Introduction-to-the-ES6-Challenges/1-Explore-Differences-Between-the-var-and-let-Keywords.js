@@ -16,7 +16,7 @@
 //through both the javascript section and ES6 section to better understand all of the syntax and better
 //prepare me for any future whiteboarding challenges, writing Vanilla Javascript is super important
 //and isnt going anywhere, so the better I can understand those concepts, the better off I will
-//be in the future for understanding complex concepts and algorithms. 
+//be in the future for understanding complex concepts and algorithms!
 
 
 
