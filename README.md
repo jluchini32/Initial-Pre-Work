@@ -12,19 +12,26 @@ put your answer here
 
 ## What code is rendered in the browser?
 
-Javascript is rendered in the browser. 
+Client-side code: Javascript, HTML, CSS are the big three that are rendered in the browser by processing the code it receives from the server. Almost every website is a combination of these. Javascript is very versatile because it has access to a ton of frameworks & libraries such as jQuery, Bootstrap, Express, etc that make it even better. One of my favorite client-side libraries is React. 
+
+sources: fasthosts.co , techterms, upwork
 
 ## What is the server-side code’s main function?
 
-put your answer here
+The main purpose of the server-side code is to process the requests that comes from the client(user/browser) and send back the correct information. It provides the communication between the front-end and the back-end and makes sure that data is sent back and forth by interacting and querying the database. Along with creating data and displaying the data, The server-side code is also used for updating, and deleting it (often referred to as CRUD- create, read, update, destroy). In practical applications, Companies use server-side programming to store account information and allow only authorized users to view and make transactions. Server-side scripting allows efficient storage and delivery of information to save money and space, by storing data in databases rather than having a seperate page for each product or item that a company may have to display. 
+
+
+sources: csharpcorner, mozilla docs
 
 ## What is the client-side code’s main function?
 
-put your answer here
+The main function of client-side code is to process the code received from the server. Once the code is loaded from the server, the browser essentially does everything else and renders it to the page. Client-side code is written in some sort of scripting language like Javascript or Typescript and interact with the elements in the HTML page such as buttons, images or text.
 
 ## What is runtime?
 
-put your answer here
+Runtime is the time when your program is running. It begins when the code is executed, and ends when the code is quit. From what I understand, runtime is the software that is happening while your program is running(usually under the hood) and is uses memory in the RAM. Runtime is usually what is doing the thing you are looking for it to do. For example, in React 360 you have 1. The react application, and 2. the code that turns your react componenets into 3D elements. Number 2 is the part that is actually turning that chunk of code into something useful. AKA DOING THE THING.
+
+sources: stackoverflow, techterms.com, wiki
 
 ## How many instances of the client-side assets (HTML, CSS, JS, Images, etc.) are created?
 
